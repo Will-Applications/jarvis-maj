@@ -1,7 +1,7 @@
 {
- "version": "2026.10.21.1327",
- "fichier": "Jarvis-MiseAJour-2026.10.21.1327.exe",
- "sha256": "f9e2ad10fb6aefd2a64504e1b991f1dac4b77b2a976f3a278561194c4e763800",
- "taille": 1543870,
- "notes": "Mises à jour automatiques (bouton Installer), réglages Voix et écoute, onglet Options, affichage léger animé."
+ "version": "2026.10.21.2042",
+ "fichier": "Jarvis-MiseAJour-2026.10.21.2042.exe",
+ "sha256": "600cedb1ee4f844fa60d3c6d696ec1c05a393d15962f28f05d89d57459d1f53b",
+ "taille": 1559376,
+ "notes": "Demande « est-ce que tout va bien ? » : Jarvis connaît sa version et fait son diagnostic. Boîte à idées toujours en haut, pour tout bug. Jusqu'à 8 potes dans Réglages. Thème Iron Man plus fidèle, 3D allégée pour PC modestes, onglet Options > Vie privée."
 }
