@@ -1,7 +1,7 @@
 {
- "version": "2026.10.22.1131",
- "fichier": "Jarvis-MiseAJour-2026.10.22.1131.exe",
- "sha256": "cd11ffc3b52ae516751100a4627ae1e65ce28fec459ab6c721ecc5c9606190f4",
- "taille": 1945547,
- "notes": "Nouveau mode 2D animée, mouvements plus naturels, plus de flash au démarrage, voix plus nette en fin de phrase, sécurité renforcée. La fenêtre de l'écran se rouvre une fois : normal."
+ "version": "2026.10.22.1628",
+ "fichier": "Jarvis-MiseAJour-2026.10.22.1628.exe",
+ "sha256": "8293c4fafaa7253492063dd1abb97e6d437c3f1303d8677cc05e803c1551f200",
+ "taille": 2285231,
+ "notes": "Décors 4K animés et image plus fine sur les PC puissants. Le Cogitator et le Nexus répondent mieux à leur nom. Couper la parole à Jarvis arrivera avec le prochain installateur."
 }
