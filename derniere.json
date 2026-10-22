@@ -1,7 +1,7 @@
 {
- "version": "2026.10.21.2042",
- "fichier": "Jarvis-MiseAJour-2026.10.21.2042.exe",
- "sha256": "600cedb1ee4f844fa60d3c6d696ec1c05a393d15962f28f05d89d57459d1f53b",
- "taille": 1559376,
- "notes": "Demande « est-ce que tout va bien ? » : Jarvis connaît sa version et fait son diagnostic. Boîte à idées toujours en haut, pour tout bug. Jusqu'à 8 potes dans Réglages. Thème Iron Man plus fidèle, 3D allégée pour PC modestes, onglet Options > Vie privée."
+ "version": "2026.10.22.1131",
+ "fichier": "Jarvis-MiseAJour-2026.10.22.1131.exe",
+ "sha256": "cd11ffc3b52ae516751100a4627ae1e65ce28fec459ab6c721ecc5c9606190f4",
+ "taille": 1945547,
+ "notes": "Nouveau mode 2D animée, mouvements plus naturels, plus de flash au démarrage, voix plus nette en fin de phrase, sécurité renforcée. La fenêtre de l'écran se rouvre une fois : normal."
 }
