@@ -1,7 +1,7 @@
 {
- "version": "2026.10.22.1628",
- "fichier": "Jarvis-MiseAJour-2026.10.22.1628.exe",
- "sha256": "8293c4fafaa7253492063dd1abb97e6d437c3f1303d8677cc05e803c1551f200",
- "taille": 2285231,
- "notes": "Décors 4K animés et image plus fine sur les PC puissants. Le Cogitator et le Nexus répondent mieux à leur nom. Couper la parole à Jarvis arrivera avec le prochain installateur."
+ "version": "2026.10.26.2225",
+ "fichier": "Jarvis-MiseAJour-2026.10.26.2225.exe",
+ "sha256": "717d2a3b5eb5fab3178732aaf36f1447b34da60e62b0ef28e27ab22c7b546728",
+ "taille": 2464600,
+ "notes": "Jarvis répond plus vite, se tait net quand tu dis « stop » et te prévient d'une petite phrase quand il cherche. Plein écran sans perdre la barre des tâches. Thème Protoss en 3D."
 }
